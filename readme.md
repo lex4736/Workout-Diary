@@ -1,4 +1,4 @@
-# ***Workout Tracking Application***
+# ***Workout Diary***
 
   
 ## 🏋️ Description of Project
@@ -33,7 +33,7 @@ npm test
  
 ----
 ## 🏋️ <a id="demo"></a> Demo of Application
-![Demo](https://user-images.githubusercontent.com/71117049/113576131-d8a0ff80-95d3-11eb-80e9-a7b32936922b.gif)
+![Demo](https://github.com/lex4736/workouttrack/blob/master/public/screenshot.PNG?raw=true)
   ----
  ## 🏋️ <a id="email"></a> Contact me for Questions 
  **lex4736@gmail.com** 
