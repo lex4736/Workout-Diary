@@ -22,5 +22,5 @@ mongoose.connect(
   );
 
 app.listen(PORT, () => {
-    console.log(`app running on port https://localhost:${PORT}`)
+    console.log(`app running on port http://localhost:${PORT}`)
 });
